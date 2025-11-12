@@ -17,7 +17,7 @@
 
 ---
 
-### AI trading Agent BUPA wallet:
+### Mayhem Trading Agent BUPA wallet:
 `Gygj9QQby4j2jryqyqBHvLP7ctv2SaANgh4sCb69BUpA`
 
 ### Mayhem program id: 
